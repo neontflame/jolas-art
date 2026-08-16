@@ -1,5 +1,3 @@
-animaçoes obrigatorias:
-
 - idle
 - andando
 - correndo
@@ -7,3 +5,7 @@ animaçoes obrigatorias:
 - pulando
 - ouch
 - Mega ouch (animaçao de girar pra tras do sonic battle)
+
+- icone do char (Icon.png)
+- nome estilizado (DiagName.png)
+- foto pro cartao de save (IconCard.png)
