@@ -1,0 +1,9 @@
+animaçoes obrigatorias:
+
+- idle
+- andando
+- correndo
+- freiando
+- pulando
+- ouch
+- Mega ouch (animaçao de girar pra tras do sonic battle)
