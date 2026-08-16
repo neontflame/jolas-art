@@ -1,6 +1,6 @@
 # jolas.Arting
 
-<center>*Flashes Abound*</center>
+## "Flashes Abound"
 
 esse e o repositorio de arte do [jolas.: Desbravações Abound](https://github.com/neontflame/jolas)! 
 
